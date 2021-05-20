@@ -1,6 +1,6 @@
 # Medical App UI Clone
 
-A new Flutter project.
+
 
 ## Screenshots
 
